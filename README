@@ -1,3 +1,5 @@
+Worst plugin ever
+
 This plugin allows you to add drag+drop functionality to any file upload input with support for multiple files. Degrades gracefully for browsers that don't support this functionality.
 
 Usage:
